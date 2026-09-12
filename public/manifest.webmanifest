@@ -1,10 +1,21 @@
 {
+  "id": "/",
   "name": "M10 WORK PROOF",
   "short_name": "WORK PROOF",
+  "description": "현장 작업 사진, 체크리스트, 서명, 보고서를 모바일에서 빠르게 기록하는 M10 WORK PROOF",
+  "lang": "ko-KR",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "background_color": "#eef3f9",
   "theme_color": "#0f2746",
-  "description": "현장 작업 사진, 체크리스트, 서명, 보고서를 모바일에서 빠르게 기록하는 M10 MVP",
-  "icons": [{"src":"/m10-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+  "icons": [
+    {
+      "src": "/m10-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
